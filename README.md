@@ -1,3 +1,4 @@
+![Project Banner](./assets/sliced-pizza.png)
 # Pizza Sales Analysis 
 ### Project Overview
 This project involves analyzing sales data from a pizza chain to derive actionable insights and trends. The dataset includes information on pizza types, sales figures, customer preferences
